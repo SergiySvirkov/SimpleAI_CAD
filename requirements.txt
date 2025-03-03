@@ -1,0 +1,11 @@
+numpy
+scipy
+open3d
+flask
+fastapi
+pandas
+torch
+torchvision
+torchaudio
+autodesk-fusion360-api
+pclpy
